@@ -26,7 +26,7 @@ function App() {
   const [unit, setUnit] = useState("C"); 
 
   // Backend URL
-  const BACKEND_URL = "https://neural-weather-app.onrender.com";
+  const BACKEND_URL = "https://neural-weather-app.onrender.com/api";
 
   const defaultCities = ["New York", "London", "Tokyo", "Paris"];
 
