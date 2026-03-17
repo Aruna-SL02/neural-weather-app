@@ -129,9 +129,9 @@ function App() {
                 alt="NeuralWeather Logo" 
                 className="h-14 w-auto drop-shadow-lg animate-pulse-slow object-contain" 
               />
-              <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-cyan-300 tracking-tight filter drop-shadow-lg">
+              {/*<h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-cyan-300 tracking-tight filter drop-shadow-lg">
                 NeuralWeather
-              </h1>
+              </h1>*/}
             </div>
           </div>
           <div className="hidden md:flex items-center gap-2 px-4 py-2 bg-black/20 rounded-full border border-white/5 text-sm text-slate-300 backdrop-blur-md">
